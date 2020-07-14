@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student id="1">
+        <name>Владислав</name>
+        <email>vl@gmail.com</email>
+        <marks>
+            <mark>5</mark>
+            <mark>8</mark>
+            <mark>9</mark>
+            <mark>7</mark>
+        </marks>
+        <average_mark>7.25</average_mark>
+    </student>
+    <student id="2">
+        <name>Misha</name>
+        <email>mihail@meil.org</email>
+        <marks>
+            <mark>6</mark>
+            <mark>9</mark>
+            <mark>8</mark>
+        </marks>
+        <average_mark>7.6667</average_mark>
+    </student>
+    <student id="3">
+        <name>Света</name>
+        <email>svetik@mail.com</email>
+        <marks>
+            <mark>4</mark>
+            <mark>7</mark>
+            <mark>9</mark>
+            <mark>10</mark>
+        </marks>
+        <average_mark>7.5</average_mark>
+    </student>
+    <student id="4">
+        <name>Сергей</name>
+        <email>serega@mail.org</email>
+        <marks>
+            <mark>6</mark>
+            <mark>6</mark>
+            <mark>7</mark>
+            <mark>10</mark>
+        </marks>
+        <average_mark>7.25</average_mark>
+    </student>
+    <student id="5">
+        <name>Игорь</name>
+        <email>igorrr@mail.org</email>
+        <marks>
+            <mark>3</mark>
+            <mark>4</mark>
+            <mark>5</mark>
+            <mark>3</mark>
+            <mark>3</mark>
+        </marks>
+        <average_mark>3.6</average_mark>
+    </student>
+    <student id="6">
+        <name>Александр</name>
+        <email>sash@345.com</email>
+        <marks>
+            <mark>8</mark>
+            <mark>9</mark>
+            <mark>9</mark>
+            <mark>10</mark>
+        </marks>
+        <average_mark>9.0</average_mark>
+    </student>
+</students>
